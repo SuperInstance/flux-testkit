@@ -1,5 +1,6 @@
 # FLUX TestKit — Test Harness Framework
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Write and run FLUX program tests with assertion helpers.
 
 ## Features
